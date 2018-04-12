@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">THE EGG STOP</string>
+    <string name="register_here">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Heading_Franchise1">Steps to Owning a The Egg Stop Franchise</string>
+    <string name="Heading_Franchise2">Franchise Support</string>
+    <string name="Heading_Franchise3">What does The Egg Stop Franchise Program offer?</string>
+    <string name="Heading_Franchise4">Egg Stop Store Models &amp; Investments</string>
+    <string name="stepowningtxt1">Once you are ready to own a restaurant franchise with The Egg Stop, there are a few steps the Franchise Development Team will help walk you through.</string>
+    <string name="stepown1"> Complete the Franchise Information Request form.</string>
+    <string name="stepown2"> Discuss program requirements with senior franchise development staff.</string>
+    <string name="stepown3"> Receive a copy of our Franchise Kit.</string>
+    <string name="stepown4"> Fill out confidential application.</string>
+    <string name="stepown5"> Select your location.</string>
+    <string name="stepown6"> Build-out phase.</string>
+    <string name="stepown7"> Sign the franchise agreement.</string>
+    <string name="stepown8"> Restaurant Opening.</string>
+
+    <string name="franchise_support"> The Egg Stop, complete turnkey Restaurant Development Support System is designed to assist you every step of the way as you build your Egg Stop business</string>
+    <string name="egg_francise_program">Place, product, pricing, and promotion (the four Ps) are core points which are The Egg stop restaurants key to success .On operating the Egg stop restaurant owners have to deal with regularly on top of meeting Quality food and food safety standards.This means Franchisees must understand their competitive landscape.</string>
+    <string name="efp_heading1">Site Selection</string>
+    <string name="efp_heading2">Project Management</string>
+    <string name="efp_heading3">Finance</string>
+    <string name="efp_heading4">Equipment</string>
+    <string name="efp_heading5">Vendor Management</string>
+    <string name="efp_heading6">Complete Training</string>
+    <string name="efp_heading7">Operationn Manual</string>
+
+    <string name="site_selection">Prime locations are not always easy to come by. Therefore, when you become part of the Egg Stop family, we will assist you in identifying prime sites to ensure that you select a location with the best chance for success.</string>
+    <string name="ProjectMangement">Once your lease is signed, the clock starts ticking. Every day that your restaurant is not open is a day you are not putting money back into your pocket. To ensure your restaurant opens as soon as possible, we offer complete project management service. This service allows you to focus on the other needs of your business.</string>
+    <string name="finance">We have relationships with financial institutions that have experience in assisting franchises in obtaining financing.</string>
+    <string name="equipment">The Egg Stop supports you with a consolidated equipment package that covers every piece of equipment in your restaurant. Due to volume purchasing discounts, you are able to buy restaurant equipment at a great price reduction. We have carefully refined this to fit the exact needs of your restaurant.</string>
+    <string name="vendormanagement">Egg Stop has product quality specifications and standards for all products used in our restaurants. Our suppliers and distributors are all over the Region and Egg Stop team will identify and negotiate best deals for you using our bulk purchasing power preferably locally.</string>
+
+    <string name="completeTraining">You will earn a degree from the Egg Stop Training Team when you complete both the classroom and on-site training program. During theory you will learn everything from register operation to product management, from staff hiring to accounting procedures. Once you have learned how to develop your sales and marketing plan, setup your back office, and sharpen your restaurant management skills, you will be ready to hit the ground running.</string>
+    <string name="Operation_manual">You will earn a degree from the Egg Stop Training Team when you complete both the classroom and on-site training program. During theory you will learn everything from register operation to product management, from staff hiring to accounting procedures. Once you have learned how to develop your sales and marketing plan, setup your back office, and sharpen your restaurant management skills, you will be ready to hit the ground running.</string>
+    <string name="eggStopModels"> The Egg Stop franchise model can be a very attractive for people planning to start their own businesses. Egg Stop has four flexible design models with different investments. The area required varies from 50 sq.ft to 1000 sg.ft.Our franchise model is a low investment business opportunity that focuses on product development and innovation and brand building.</string>
+    <string name="eggstopmodel_heading1">1. Dine In-500-1000 Square feet</string>
+    <string name="eggstopmodel_heading2">2. Food Court 200-300- Sqare feet</string>
+    <string name="eggstopmodel_heading3">3. Kiosk Model /Shop In shop Model-50-100 Square feet</string>
+    <string name="eggstopmodel_heading4">4. Mobile / Vehicle Model- 30-60 Square feet</string>
+
+    <string name="esmhead1_text">Total Investment USD 20,000</string>
+    <string name="esmhead2_text">Total Investment USD 15,000</string>
+    <string name="esmhead3_text">Total Investment USD 10,000</string>
+    <string name="esmhead4_text">Total Investment USD 12,000</string>
+
+
+    <string name="franchise_btn1">DOWNLOAD FRANCHISE APPLICATION KIT</string>
+    <string name="franchise_btn2">DOWNLOAD FRANCHISE BROCHURE</string>
+    <string name="franchise_btn3">DOWNLOAD MENU</string>
+
+
+    <string name="Home">HOME</string>
+    <string name="Menu">MENNU</string>
+    <string name="Franchise">FRANCHISE</string>
+    <string name="title_activity_main2">THE EGG STOP</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="AboutUs_tittle1">The Egg Stop</string>
+    <string name="AboutUs_tittle2">Yellow Cup</string>
+    <string name="AboutUs_tittle3">Vision</string>
+    <string name="AboutUs_tittle4">Mission</string>
+    <string name="AboutUs_tittle5">The brand</string>
+    <string name="AboutUs_tittle6">Overview</string>
+
+    <string name="abt_txt4">The Egg stop is committed to provide the best nutritious food in the world with a superior quality product while fostering profitable growth.</string>
+    <string name="abt_txt5">The broand identity for the Egg stop restaurant is uniwue. The team really pshes the boundries of the broght yellow and white cilor combination .The logo is simple in its delicery of a visual metaphore while the supporting design work takes off in many directions aall boilinf down to a fuun look and feel.</string>
+    <string name="abt_txt1">The Egg stop-nmaed one of the finest Multi-concept companies in the Pan-Asian Region is developed by Zon Group founded by M>A Babu ,Renowned public health expert and owns and operates chian of nutritious Egg speciality restaurant and drives a multi_faceted multi_model focused on developing cutting edge brands with unparalled dining experiences.</string>
+    <string name="abt_txt2">Yellow Cup is a supplementary bevarge and snack brand along with The Egg Stop serving drinks ,bakery items,coffee and tea surround the yellow cup name.</string>
+    <string name="abt_txt3">To become the largest Egg speciality chain in the region and ensures the availability of a high quality porduct by encouraging and promoting high standards and efficient practices.</string>
+    <string name="abt_txt6">Place, product,pricing and promotion (the four Ps) are key points that The Egg Stop restaurant.On operating the Egg Sotp restaurant owners have to deal with regularly on top of meeting Quality food and food safety standards.This means Franchises musr understand their competitive landscape .Franchises should also know that running an independent restaurant is different from managing and operating a restaurant chain , which invitres additional complications like incentives allignment , bureaucracies, growth strategy and operational guidelines.</string>
+
+</resources>

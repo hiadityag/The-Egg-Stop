@@ -1,0 +1,7 @@
+#Thu Sep 14 15:47:59 IST 2017
+base.0=C\:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_34512e07a6a2c58bfac726ac124fd6c1ac73906d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_64638154fe619bd25e069dd28378ded03db6aed4\\classes.dex
+base.1=C\:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_64638154fe619bd25e069dd28378ded03db6aed4
+file.0=C\:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_34512e07a6a2c58bfac726ac124fd6c1ac73906d\\classes.dex

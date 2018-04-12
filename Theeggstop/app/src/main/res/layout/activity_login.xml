@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aditya.theeggstop.Login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="407dp"
+        android:layout_height="602dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="-12dp">
+
+        <EditText
+            android:id="@+id/txt_userid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="37dp"
+            android:ems="10"
+            android:hint="Mobile Number"
+            android:inputType="phone"
+            android:paddingTop="7dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/txt_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_userid"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="37dp"
+            android:ems="10"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:paddingTop="7dp" />
+
+        <TextView
+            android:id="@+id/forgot_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/txt_password"
+            android:paddingLeft="255dp"
+            android:paddingTop="15dp"
+            android:text="@string/forgot" />
+
+        <Button
+            android:id="@+id/b_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/forgot_pass"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="33dp"
+            android:text="@string/login"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/b_login"
+            android:layout_marginTop="42dp"
+            android:gravity="center"
+            android:paddingTop="0dp"
+            android:text="If you are new here, register with us."
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/b_register_here"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="27dp"
+            android:text="@string/register_here"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

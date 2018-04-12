@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa022</color>
+    <color name="searchbar">#ffffff</color>
+    <color name="colorBackground">#ffc022</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TextColorHint">#000000</color>
+    <color name="TextColor">#000000</color>
+   <color name="background_bttn">#fce4ec</color>
+    <color name="heading">#000</color>
+
+</resources>

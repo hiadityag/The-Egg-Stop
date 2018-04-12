@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\a6aaab7ae25c4aa5a618c18d8f7ae3d1eca1c96f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_331611720e435758021a3fc816774660ccc4661f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_173401cf28ab41a17ff97c9e124ae9eab4150b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\2dc111c5fff78a3efdcb01e90f0ac57bf79bdb38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_d7e2536d2498b5429c6b167f69d907b993d24550.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\72b8c96dee4d8c61a43ae2ba5f0bfb51373c3312\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cee6bc9dd9b24031d53aeb34bf59796e57305f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\a6aaab7ae25c4aa5a618c18d8f7ae3d1eca1c96f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_331611720e435758021a3fc816774660ccc4661f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\72b8c96dee4d8c61a43ae2ba5f0bfb51373c3312\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_7cee6bc9dd9b24031d53aeb34bf59796e57305f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\651a025ec16a138f226792fe73fb0d18349bf221\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_673e7170ee2c591217cadaa3ac0d5910313b0137\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\a2207420927b92ff1ccb05f36c668542b85fccd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_56901dbf2038c1bcc900fc552cb166f259ad22fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6964f95dbe20f34f9a4c15b3ea414ed00e34daae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2dc111c5fff78a3efdcb01e90f0ac57bf79bdb38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7e2536d2498b5429c6b167f69d907b993d24550\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\041e74bb45852a9205e6e1d013c078801b7fb461\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_62c22cfee76802f8ea4abc40eb18f37416dfd1a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\651a025ec16a138f226792fe73fb0d18349bf221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_673e7170ee2c591217cadaa3ac0d5910313b0137.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98f6dd9eba3ff09c41115d2bedf83b4467afff70">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_34512e07a6a2c58bfac726ac124fd6c1ac73906d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\a2207420927b92ff1ccb05f36c668542b85fccd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56901dbf2038c1bcc900fc552cb166f259ad22fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_64638154fe619bd25e069dd28378ded03db6aed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\a8efd2ff05956b15a3a5d5d14de0c65ac3b336de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a90cd2cc48615938a67d21823728ef42750bda4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\041e74bb45852a9205e6e1d013c078801b7fb461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62c22cfee76802f8ea4abc40eb18f37416dfd1a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\a8efd2ff05956b15a3a5d5d14de0c65ac3b336de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_a90cd2cc48615938a67d21823728ef42750bda4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_173401cf28ab41a17ff97c9e124ae9eab4150b4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\03e734ff9bdbe6681c19f80326756e5cd0c7421e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_284aac166ab8766d5ab60a74822e98e055464363\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\ac0f792bb1ced6fe2064979ee396c922bdb725bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_41470dfaa8f62cfa38f4ca260ebc456d50074875.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\ac0f792bb1ced6fe2064979ee396c922bdb725bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41470dfaa8f62cfa38f4ca260ebc456d50074875\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6964f95dbe20f34f9a4c15b3ea414ed00e34daae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\eb7f71de14a4976b33bc9e2910e1d6e6ab7c977d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56290c7494b6d908bc6b83bc9504af3371036806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\ed79e13272e5a016be8734fd686666699c93ff06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_540d2267010f28f7d15033686cea145d7b7238a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\7b87eab99f7ce64257477b5261d96d1463aa10f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8078f2df3b9ea058767452cc69008aaf53c50dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\ed79e13272e5a016be8734fd686666699c93ff06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_540d2267010f28f7d15033686cea145d7b7238a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\eb7f71de14a4976b33bc9e2910e1d6e6ab7c977d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_56290c7494b6d908bc6b83bc9504af3371036806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\03e734ff9bdbe6681c19f80326756e5cd0c7421e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_284aac166ab8766d5ab60a74822e98e055464363.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\37944ec5a8621c269940a8ad90f96bac0bee8616\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53937ebc13a6d2e293fca4db4ee068f6cf3b8cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\7b87eab99f7ce64257477b5261d96d1463aa10f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_8078f2df3b9ea058767452cc69008aaf53c50dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\37944ec5a8621c269940a8ad90f96bac0bee8616\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Theeggstop-20170910T191847Z-001\Theeggstop\app\build\intermediates\pre-dexed\debug\classes_53937ebc13a6d2e293fca4db4ee068f6cf3b8cb6.jar" />
+    </item>
+
+</items>

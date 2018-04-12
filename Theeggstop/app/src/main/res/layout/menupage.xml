@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="6"
+    android:id="@+id/menupage"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="5dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_weight="4.5"
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:background="@color/colorBackground"
+        android:layout_height="0dp"
+        android:id="@+id/buttonMenu"
+        android:orientation="horizontal"
+        android:weightSum="5">
+
+        <Button
+            android:background="@drawable/back"
+            android:text="HOT &amp; CHILL MENU"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/heading"
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:id="@+id/hcMenu"/>
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:weightSum="5"
+            android:id="@+id/ButtonMenu1"
+            android:orientation="vertical">
+
+            <Button
+                android:background="@drawable/back"
+                android:text="EGG MENU"
+                android:layout_height="0dp"
+                android:textSize="@dimen/heading"
+                android:layout_width="match_parent"
+                android:layout_weight="3"
+                android:id="@+id/EggMenu"/>
+            <Button
+                android:background="@drawable/back"
+                android:textSize="@dimen/heading"
+                android:text="CHICKEN MENU"
+                android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:layout_weight="2"
+                android:id="@+id/chickenMenu"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+<LinearLayout
+    android:layout_weight="1.5"
+    android:layout_height="0dp"
+    android:background="@color/colorBackground"
+    android:padding="5dp"
+    android:layout_width="match_parent"
+    android:weightSum="3"
+    android:id="@+id/social"
+    android:orientation="horizontal"
+    >
+    <ImageButton
+        android:src="@drawable/fb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/ffb"/>
+    <ImageButton
+        android:src="@drawable/yt"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/yt"/>
+    <ImageButton
+        android:src="@drawable/gp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/gp"/>
+    </LinearLayout>
+</LinearLayout>

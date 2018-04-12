@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_logo.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Theeggstop-20170910T191847Z-001\\Theeggstop\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
+    }
+]
